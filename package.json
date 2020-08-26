@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/rossmawd/npm-getting-started/issues"
   },
-  "homepage": "https://github.com/rossmawd/npm-getting-started#readme"
+  "homepage": "https://github.com/rossmawd/npm-getting-started#readme",
+  "dependencies": {}
 }
